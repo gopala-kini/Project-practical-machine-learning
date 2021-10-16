@@ -7,7 +7,7 @@ Learning by Johns Hopkins University for Coursera. The purpose of the project wa
 build a prediction model to know how a certain user is lifting weights, based on data
 obtained from an accelerometer.
 
-The course was finished in October, 2014.
+The course was finished in October, 2021.
 
 The analysis was done using R.
 
